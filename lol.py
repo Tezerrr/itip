@@ -5,3 +5,4 @@ def fr(n):
 
 
 print(fr(5))
+print(fr(4))
